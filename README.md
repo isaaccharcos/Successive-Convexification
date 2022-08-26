@@ -1,1 +1,1 @@
-# Successive-Convexification
+# Successive Convexification
