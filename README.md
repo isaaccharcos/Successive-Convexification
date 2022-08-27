@@ -1,2 +1,2 @@
 # Successive Convexification
-![](https://raw.githubusercontent.com/isaaccharcos/Successive-Convexification/main/SCvx.gif)
+![](https://github.com/isaaccharcos/Successive-Convexification/blob/main/SCvx%20Iterations.gif)
