@@ -1,7 +1,7 @@
 %% Initialization
 clc; clear all; close all; format short g; tic
 
-load_results = "results_scvxtfc.mat";
+% load_results = {results file};
 
 % BCs and Algorithm parameters
 w_nu = 1e5;
