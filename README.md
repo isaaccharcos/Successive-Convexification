@@ -1,6 +1,6 @@
 # Successive Convexification
 <p align="center">
-  <img src="https://github.com/isaaccharcos/Successive-Convexification/blob/main/SCvx%20Iterations.gif" />
+  <img src="https://github.com/isaaccharcos/Successive-Convexification/blob/main/SCvx_Combined.gif" />
 </p>
 
 Implementation of [Successive Convexification for 6-DoF Mars Rocket Powered Landing with Free-Final-Time](https://arxiv.org/abs/1802.03827) by Michael Szmuk, Behcet Acikmese.
